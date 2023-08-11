@@ -7,9 +7,12 @@
     3. Length of each break
 - With the output given, you will be able to complete the workout with just a stopwatch!
 
-## Installation & Usage
+## Installation & Usage:
 1. Clone the repository
 2. Run the following command:
 ```
 python3 plankmaster.py
 ```
+
+## Example Output:
+![example](example.png)
